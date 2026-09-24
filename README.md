@@ -110,9 +110,7 @@ A release still needs to explain the news efficiently. Excessive promotional lan
 
 Clear headlines, concise opening paragraphs, accurate facts, useful context, and properly attributed quotations generally make company announcements easier to interpret.
 
-The Associated Press Stylebook is one established reference used by journalists, public relations professionals, marketers, classrooms, and corporate offices. Its current resources include guidance relevant to press releases and corporate communication.
-
-Authority resource: https://www.apstylebook.com/
+The <a href="https://www.apstylebook.com/">AP Stylebook</a> is an established writing reference used across journalism, public relations, marketing, education, and corporate communication. Its guidance can help communication teams maintain clearer and more consistent writing when preparing public announcements.
 
 ## Search Has Changed the Life of Company News
 
